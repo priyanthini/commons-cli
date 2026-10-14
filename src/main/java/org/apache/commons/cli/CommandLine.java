@@ -47,6 +47,8 @@ public class CommandLine implements Serializable {
      */
     public static final class Builder implements Supplier<CommandLine> {
 
+        // Source modification for Jenkins CI assignment.
+
         /**
          * Prints an Option to {@link System#out}.
          */
